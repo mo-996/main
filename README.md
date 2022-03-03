@@ -31,3 +31,7 @@ jadi ya bisa cek hasil inputan anda bisa mengakses mongo db atlas melalui link d
 https://account.mongodb.com/account/login?signedOut=true
 email : reynaldy.mochamad@gmail.com
 pass : qwerty3131
+
+untuk fiture update data
+apabila kita mau update data kita harus ganti satu nomor lalu form input yang kedua baru bisa terupdate
+"litle isu"

@@ -3,7 +3,8 @@
 clone repository aps
 
 1).server
-apabila sudah di clone pastikan sudah memiliki nodejs, lalu buka terminal dan ketikan perintah 
+apabila sudah di clone pastikan sudah memiliki nodejs,
+lalu buka terminal dan ketikan perintah 
 npm install
 
 apabila sudah terinstall ketikan perintah 

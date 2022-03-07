@@ -37,8 +37,7 @@ apabila kita mau update data kita harus ganti satu nomor lalu form input yang ke
 "litle isu"
 
 UPDATE
-=> file .env ditambahkan. Saya sendiri tidak tau permasalahan kenapa saya melalukan comit file env tidak terupload.
-
+=> file .env ditambahkan. Saya sendiri tidak tau permasalahan kenapa saya melalukan comit file env tidak terupload, mungkin laptop saya yg bermasalah sedang saya coba perbaiki
 => password mongodbatlas diganti menjadi
 qwerty313131
 

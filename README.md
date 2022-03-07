@@ -35,3 +35,10 @@ pass : qwerty3131
 untuk fiture update data
 apabila kita mau update data kita harus ganti satu nomor lalu form input yang kedua baru bisa terupdate
 "litle isu"
+
+UPDATE
+=> file .env ditambahkan. Saya sendiri tidak tau permasalahan kenapa saya melalukan comit file env tidak terupload.
+
+=> password mongodbatlas diganti menjadi
+qwerty313131
+
